@@ -27,6 +27,8 @@ First run npm install in order to install npm package dependencies as specified 
        
 As this app is only a backend app you will need to use it in insomnia or a simalar app.
 
+https://user-images.githubusercontent.com/83891242/131200968-d128bb21-422d-42ba-9ed1-23fb9aa87aab.mp4
+
 ## License
 
 MIT_License
